@@ -1,0 +1,43 @@
+# ===============================
+# PhpStorm / IntelliJ IDEA
+# ===============================
+.idea/
+*.iml
+out/
+
+# ===============================
+# Sistema operativo
+# ===============================
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS (no molesta aunque estés en Windows)
+.DS_Store
+
+# ===============================
+# PHP / Composer (por si luego lo usas)
+# ===============================
+vendor/
+composer.phar
+composer.lock
+
+# ===============================
+# Logs y archivos temporales
+# ===============================
+*.log
+*.tmp
+*.cache
+
+# ===============================
+# XAMPP / entorno local
+# ===============================
+.env
+.env.local
+
+# ===============================
+# Archivos de backup
+# ===============================
+*.bak
+*.swp
+*~
